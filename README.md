@@ -34,8 +34,8 @@ Every project is built with a focus on performance, scalability and measurable r
 
 ### 🛠️ Services
 
-✅ UI/UX Design
-✅ Brand Identity
+ ✅ UI/UX Design
+ ✅ Brand Identity
 ✅ Landing Pages
 ✅ Business Websites
 ✅ E-commerce Development
