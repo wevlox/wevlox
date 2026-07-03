@@ -1,6 +1,6 @@
 <img width="1048" height="142" alt="image" src="https://github.com/user-attachments/assets/a3433351-e96e-4f2b-9e9b-8c622b5d7ca4" /><div align="center">
 
-<img src="./assets/banner.png" alt="WEVLOX — We build websites that grow businesses" width="100%" />
+<!-- <img src="./assets/banner.png" alt="WEVLOX — We build websites that grow businesses" width="100%" /> -->
 <!-- <img width="1048" height="142" alt="Screenshot 2026-07-03 175346" src="https://github.com/user-attachments/assets/00f9ea0e-642d-402b-a2d1-f8949c5c2488" /> -->
 
 <br/>
