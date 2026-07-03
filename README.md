@@ -146,6 +146,7 @@ Have a project in mind? We'd love to hear about it and help you build something 
 
 © 2026 WEVLOX. All rights reserved.
 
-[Website](https://wevlox.com) | [LinkedIn](https://www.linkedin.com/company/wevlox) | [Behance](https://www.behance.net/wevlox) | [Email](mailto:hello@wevlox.com)
+[Website](https://wevlox.com) | [LinkedIn](https://www.linkedin.com/company/wevlox) | [Behance](https://www.behance.net/wevlox)
+<!--| [Email](mailto:hello@wevlox.com) -->
 
 </div>
