@@ -14,7 +14,7 @@ WEVLOX is a modern web design & development studio creating digital products tha
 [![Website](https://img.shields.io/badge/🌐_Website-2563EB?style=for-the-badge&logoColor=white)](https://wevlox.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/wevlox)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/wevlox)
-[![Email](https://img.shields.io/badge/✉️_Email_Us-6D28D9?style=for-the-badge&logoColor=white)](mailto:hello@wevlox.com)
+<!--[![Email](https://img.shields.io/badge/✉️_Email_Us-6D28D9?style=for-the-badge&logoColor=white)](mailto:hello@wevlox.com) -->
 
 </div>
 
@@ -125,7 +125,7 @@ Have a project in mind? We'd love to hear about it and help you build something 
 
 <div align="center">
 
-[![Get in touch](https://img.shields.io/badge/Get_in_touch_→-7C3AED?style=for-the-badge&logoColor=white)](mailto:hello@wevlox.com)
+[![Get in touch](https://img.shields.io/badge/🌐_Website-2563EB?style=for-the-badge&logoColor=white)](https://wevlox.com)
 
 <br/><br/>
 
