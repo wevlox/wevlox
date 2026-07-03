@@ -113,31 +113,9 @@ Every solution is designed to improve visibility, increase conversions, strength
 
 ## 🚀 Our Process
 
-🔍 Discovery
-
-↓
-
-📐 Strategy
-
-↓
-
-🎨 UI/UX Design
-
-↓
-
-💻 Development
-
-↓
-
-🧪 Testing
-
-↓
-
-🚀 Launch
-
-↓
-
-🤝 Long-term Support
+| 🔍 Discovery | 🎨 Design & Planning | 💻 Development | 🚀 Launch & Support |
+|--------------|----------------------|----------------|---------------------|
+| Understand business goals | Create UX/UI and project structure | Build a fast, scalable website | Deploy, optimize, and provide ongoing support |
 
 <br/>
 
