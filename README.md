@@ -34,45 +34,45 @@ Every project is built with a focus on performance, scalability and measurable r
 
 ### 🛠️ Services
 
- ✅ UI/UX Design
- ✅ Brand Identity
-✅ Landing Pages
-✅ Business Websites
-✅ E-commerce Development
-✅ React & Next.js Development
-✅ Full-Stack Development
-✅ SEO Optimization
-✅ Performance Optimization
-✅ Website Maintenance
+- ✅ UI/UX Design
+- ✅ Brand Identity
+- ✅ Landing Pages
+- ✅ Business Websites
+- ✅ E-commerce Development
+- ✅ React & Next.js Development
+- ✅ Full-Stack Development
+- ✅ SEO Optimization
+- ✅ Performance Optimization
+- ✅ Website Maintenance
 
 </td>
 <td valign="top" width="33%">
 
 ### 🏢 Industries
 
-🩺 Healthcare
-⚖️ Legal
-🏠 Real Estate
-💼 Consulting
-🏨 Hospitality
-📊 SaaS
-🏗️ Construction
-💰 Fintech
-🏭 Manufacturing
-🛒 E-commerce
+- 🩺 Healthcare
+- ⚖️ Legal
+- 🏠 Real Estate
+- 💼 Consulting
+- 🏨 Hospitality
+- 📊 SaaS
+- 🏗️ Construction
+- 💰 Fintech
+- 🏭 Manufacturing
+- 🛒 E-commerce
 
 </td>
 <td valign="top" width="33%">
 
 ### ⭐ Why WEVLOX
 
-✔️ Business-focused approach
-✔️ Custom design — no templates
-✔️ SEO-ready development
-✔️ Mobile-first experience
-✔️ High-performance websites
-✔️ Transparent communication
-✔️ Long-term partnership
+- ✔️ Business-focused approach
+- ✔️ Custom design — no templates
+- ✔️ SEO-ready development
+- ✔️ Mobile-first experience
+- ✔️ High-performance websites
+- ✔️ Transparent communication
+- ✔️ Long-term partnership
 
 </td>
 </tr>
