@@ -147,10 +147,10 @@ Selected examples demonstrating our approach to business-focused web development
 
 | | Project | Description |
 |---|---|---|
-| 🧠 | **[Neurofeedback](https://github.com/wevlox/neurofeedback)** | Mental health platform for managing neurofeedback sessions and patient workflows. |
-| 🛁 | **Wildwood Mobile Sauna** | Booking website designed to simplify reservations and increase conversions. |
-| 🍔 | **Cafe & Grill** | Restaurant website focused on showcasing the menu and attracting more customers. |
-| 🏝️ | **HURGHADA** | Travel platform promoting experiences and helping visitors book activities. |
+| 🧠 | **[Neurofeedback](https://www.mindpilot.center/)** | Mental health platform for managing neurofeedback sessions and patient workflows. |
+| 🛁 | **[Wildwood Mobile Sauna](https://www.wildwoodmobilesauna.com/)** | Booking website designed to simplify reservations and increase conversions. |
+| 🍔 | **[Cafe & Grill](https://cafe-grill-mix-market.vercel.app/de)** | Restaurant website focused on showcasing the menu and attracting more customers. |
+| 🏝️ | **[HURGHADA](https://hurghada.com/)** | Travel platform promoting experiences and helping visitors book activities. |
 
 <br/>
 
